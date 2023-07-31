@@ -1,6 +1,6 @@
 # This is a Github Workflow that runs tests on any push or pull request.
 name: CI
-on: [push, pull_request]
+on: [push, pull_request, workflow_dispatch]
 jobs:
   test:
     runs-on: ubuntu-latest
