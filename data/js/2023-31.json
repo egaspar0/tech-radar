@@ -1,0 +1,48 @@
+{
+    "meta":{
+      "title": "tech radar js",
+      "date": "2023-07-31"
+    },
+    "data":[
+      {
+        "name": "TypeScript",
+        "quadrant": "languages-and-frameworks",
+        "ring": "Adopt",
+        "description": "Test",
+        "moved": "1"
+      },
+      {
+        "name": "Nodejs",
+        "quadrant": "Platforms",
+        "ring": "Adopt",
+        "description": "",
+        "moved": ""
+      },
+      {
+        "name": "codeclimate",
+        "quadrant": "tools",
+        "ring": "Trial",
+        "description": "Lorem Ipsum",
+        "moved": "0"
+      },
+      {
+        "name": "Load testing",
+        "quadrant": "Techniques",
+        "ring": "Assess",
+        "description": "Lorem Ipsum 123",
+        "moved": "-1"
+      }
+    ],
+    "quadrantAliases": {
+      "q1": "languages-and-frameworks",
+      "q2": "platforms",
+      "q3": "tools",
+      "q4": "techniques" 
+    },
+    "quadrantTitles": {
+      "q1": "Languages and frameworks",
+      "q2": "Platforms",
+      "q3": "Tools",
+      "q4" :"Techniques"
+    }
+  }
